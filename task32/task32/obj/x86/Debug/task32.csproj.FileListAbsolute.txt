@@ -1,0 +1,4 @@
+G:\C#\lesson02\task32\task32\bin\Debug\task32.exe
+G:\C#\lesson02\task32\task32\bin\Debug\task32.pdb
+G:\C#\lesson02\task32\task32\obj\x86\Debug\task32.exe
+G:\C#\lesson02\task32\task32\obj\x86\Debug\task32.pdb
